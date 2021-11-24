@@ -1,0 +1,5 @@
+com/example/studentbootdb/model/User.class
+com/example/studentbootdb/service/UserService.class
+com/example/studentbootdb/repository/UserRepository.class
+com/example/studentbootdb/controller/UserController.class
+com/example/studentbootdb/StudentbootdbApplication.class

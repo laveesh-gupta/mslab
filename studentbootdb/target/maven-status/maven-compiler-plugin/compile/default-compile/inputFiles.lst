@@ -1,0 +1,5 @@
+/home/lg5/microserviceslab/studentbootdb/src/main/java/com/example/studentbootdb/repository/UserRepository.java
+/home/lg5/microserviceslab/studentbootdb/src/main/java/com/example/studentbootdb/service/UserService.java
+/home/lg5/microserviceslab/studentbootdb/src/main/java/com/example/studentbootdb/StudentbootdbApplication.java
+/home/lg5/microserviceslab/studentbootdb/src/main/java/com/example/studentbootdb/model/User.java
+/home/lg5/microserviceslab/studentbootdb/src/main/java/com/example/studentbootdb/controller/UserController.java

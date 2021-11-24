@@ -1,0 +1,5 @@
+com/example/bootdbtest/repository/BookRepository.class
+com/example/bootdbtest/model/Book.class
+com/example/bootdbtest/controller/BookController.class
+com/example/bootdbtest/BootdbtestApplication.class
+com/example/bootdbtest/service/BookService.class
